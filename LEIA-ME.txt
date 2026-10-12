@@ -1,0 +1,22 @@
+V.C MUSIC — PWA/WEB
+
+Arquivos:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
+
+COMO PUBLICAR:
+1. Envie todos os arquivos juntos para uma hospedagem.
+2. O endereço precisa usar HTTPS para o PWA instalar corretamente.
+3. Abra o site no Chrome do Android.
+4. Use "Adicionar à tela inicial" ou "Instalar app".
+
+O V.C Music mantém:
+- azul-marinho, ouro e branco
+- luzes coloridas
+- visual mobile
+- player e biblioteca
+- favoritos
+- visualizador colorido
